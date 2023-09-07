@@ -3,7 +3,7 @@
 /**
  * main - this is the main func
  *
- * Return:this is always 0
+ * Return this is always 0
  */
 int main(void)
 {
